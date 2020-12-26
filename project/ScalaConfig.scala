@@ -37,7 +37,7 @@ object ScalaConfig {
     , "-Ymacro-annotations"
     , "-Ywarn-extra-implicit"
     , "-Ywarn-numeric-widen"
-    , "-Ywarn-unused"
+//    , "-Ywarn-unused"
     , "-Ywarn-value-discard"
     , "-Wconf:src=src_managed/.*&cat=unused:s"
   )
